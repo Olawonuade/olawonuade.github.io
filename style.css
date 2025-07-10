@@ -13,6 +13,18 @@ header {
   text-align: center;
 }
 
+.about {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+  background: #fdf6f0;
+  border-left: 5px solid #a1887f;
+  margin-bottom: 2rem;
+}
+.about h2 {
+  color: #4e342e;
+}
+
 .projects {
   padding: 2rem;
   max-width: 900px;
